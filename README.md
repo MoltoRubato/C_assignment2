@@ -46,7 +46,7 @@ Develop a command to generate a histogram-like graph of values in a specified co
 
 ## Contributors
 - Ryan Huang
-- University of Melbourne COMP20005 Teaching Team (Question Provider)
+- University of Melbourne COMP20005 Teaching Team (Skeleton Code Provider)
 
 ## License
 This project is for academic purposes under the University of Melbourne's COMP20005 course.
